@@ -30,6 +30,11 @@
         <appender-ref ref ="flumeApplender"/>
     </appender>
 
+    <logger name="org.springframework" level="INFO" additivity="false">
+        <appender-ref ref="STDOUT"/>
+        <appender-ref ref="ASYNC"/>
+    </logger>
+
 
     <logger name="com.yuandu" level="INFO" additivity="false">
         <appender-ref ref="STDOUT"/>
