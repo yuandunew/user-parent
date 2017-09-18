@@ -17,9 +17,9 @@
     <version>1.0-SNAPSHOT</version>
 
     <modules>
-        <module>wechatgateway-service</module>
-        <module>wechatgateway-rest</module>
-        <module>wechatgateway-api</module>
+        <module>user-service</module>
+        <module>user-rest</module>
+        <module>user-api</module>
     </modules>
 
 
