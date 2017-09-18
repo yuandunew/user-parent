@@ -4,3 +4,5 @@
 /user-rest/user-rest.iml
 /user-api/user-api.iml
 /user-parent.iml
+/user-rest/target/
+/user-service/target/
