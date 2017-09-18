@@ -12,8 +12,9 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="user-parent" target="1.8" />
       <module name="wechatgateway-api" target="1.5" />
-      <module name="wechatgateway-parent" target="1.5" />
+      <module name="wechatgateway-parent" target="1.8" />
       <module name="wechatgateway-rest" target="1.5" />
       <module name="wechatgateway-service" target="1.5" />
     </bytecodeTargetLevel>
